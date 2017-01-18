@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bookstore/bookstore.iml" filepath="$PROJECT_DIR$/bookstore/bookstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gs-circuit-breaker.iml" filepath="$PROJECT_DIR$/gs-circuit-breaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reading/reading.iml" filepath="$PROJECT_DIR$/reading/reading.iml" />
+    </modules>
+  </component>
+</project>
